@@ -1,4 +1,4 @@
-### Python Pandas – Time Series Data & Dates | Learning & Practice
+# Python Pandas – Time Series Data & Dates | Learning & Practice
 
 📌 About This Repository
 
